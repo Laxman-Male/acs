@@ -1,0 +1,472 @@
+.heading {
+    margin-left: 100px;
+    display: inline-block;
+}
+
+#about {
+    margin-left: 170px;
+    color: black;
+    font-size: 12px;
+     /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    color: rgb(69, 68, 68);
+    font-weight: 600;
+}
+
+.header {
+    color: black;
+    font-size: 12px;
+    color: rgb(69, 68, 68);
+    font-weight: 600;
+
+}
+
+#login {
+    color: white;
+    border: none;
+    background-color: #EA580C;
+    border-radius: 10px;
+    padding: 9px 26px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#fieldset {
+    border: solid gray;
+    border-width: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 8px;
+    height: 40px;
+}
+
+.section {
+    background-color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+#acss {
+    margin-bottom: 100px;
+}
+
+.member {
+    border: none;
+    border-radius: 8px;
+    background-color: #EA580C;
+    margin-left: 8px;
+    padding: 14px 26px;
+    color: white;
+}
+
+#photo {
+    margin-top: 10px;
+    margin-left: 300px;
+    float: top;
+}
+
+#acsi {
+
+    background-color: none;
+
+    width: 325px;
+    padding: 1px 3px;
+    box-shadow: 0px 1px 4px;
+    border-radius: 10px;
+    font-size: 25px;
+    display: inline-block;
+
+
+}
+
+#webinars {
+    background-color: none;
+    width: 325px;
+    padding: 1px 1px;
+    box-shadow: 0px 1px 4px;
+    border-radius: 10px;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+#constitution {
+
+    background-color: none;
+    width: 325px;
+    padding: 1px 1px;
+    box-shadow: 0px 1px 4px;
+    border-radius: 10px;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 38px;
+}
+
+#observership {
+
+    background-color: none;
+    width: 320px;
+    padding: 1px 3px;
+    box-shadow: 0px 1px 4px;
+    border-radius: 10px;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 3px;
+    margin-top: 32px;
+}
+
+#supportmail {
+    background-color: none;
+    width: 338px;
+    padding: 1px 2px;
+    box-shadow: 0px 1px 4px;
+    border-radius: 10px;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 35px;
+    margin-top: 32px;
+}
+
+#section2 {
+    margin-left: 130px;
+}
+
+#calender {
+    vertical-align: middle;
+    border: solid #ffd699;
+    border-width: 12px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #ffd699;
+    padding: 9px 30px;
+    width: 60px;
+}
+
+#publication {
+    background-color: none;
+    width: 326px;
+    padding: 1px 2px;
+    box-shadow: 0px 1px 4px;
+    border-radius: 10px;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#section {
+    height: 500px;
+}
+
+#sirname {
+    width: 255px;
+    height: 80px;
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.pre_img {
+    font-size: 50px;
+    color: rgb(69, 68, 68);
+}
+
+#tablerow_width {
+    width: 500px;
+}
+
+#add_para {
+    height: 500px;
+    width: 400px;
+    font-size:  21px;
+    color: rgb(69, 68, 68);
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     /* font-weight: 540; */
+     line-height: 27px;
+}
+
+#abt_mission {
+    width: 500px;
+    height: 500px;
+    font-size: 50px;
+     
+}
+
+#space_field {
+    height: 350px;
+    width: 400px;
+    border: solid white;
+}
+
+#abt_descri {
+    width: 500px;
+    height: 500px;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(69, 68, 68);
+    border: none;
+    line-height: 27px;
+}
+
+#abt_info {
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(69, 68, 68);
+    
+}
+#sirname2 {
+    width: 240px;
+    height: 70px;
+    color: rgb(69, 68, 68);
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+#president{
+    border: solid #EA580C;
+    border-width: 6px;
+}
+#manas_img {
+    border: solid #EA580C;
+    border-width: 6px;
+
+}
+
+#sec_para {
+    font-size: 18px;
+    height: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(69, 68, 68);
+    border: none;
+   
+
+}
+
+#foot_section {
+    border: none;
+    background-color: rgb(245, 245, 245);
+    height: 500px;
+}
+
+#office {
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(69, 68, 68);
+}
+
+#foot_field {
+    margin-left: 100px;
+    margin-right: 100px;
+    border: none;
+    height: 480px;
+}
+
+#foot_1stinfo {
+    width: 126px;
+    height: 90px;
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#style_1stimg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 84, 84);
+    font-size: 19px;
+    margin-top: 4px;
+}
+
+#foot_div {
+    display: inline-block;
+    
+}
+#barua_img{
+    border: solid  #EA580C;
+    border-width: 4px;
+}
+
+#foot_2nd_info {
+    width: 122px;
+    height: 90px;
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#style_2ndimg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 84, 84);
+    font-size: 19px;
+    margin-top: 4px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+}
+
+#foot_manas_img {
+    border: solid;
+    color: #EA580C;
+    border-width: 3px;
+    height: 175px;
+}
+
+.foot_div2 {
+    display: inline-block;
+    margin-left: 22px;
+}
+
+#foot_reddy_img {
+    border: solid;
+    color: #EA580C;
+    border-width: 3px;
+    height: 175px;
+    width: 150px;
+}
+
+#foot_3rd_info {
+    width: 128px;
+    height: 90px;
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#style_3rdimg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 84, 84);
+    font-size: 19px;
+    margin-top: 4px;
+}
+
+#foot_debjit_img {
+    border: solid;
+    color: #EA580C;
+    border-width: 3px;
+    height: 182px;
+    width: 150px;
+}
+
+#foot_4th_info {
+    width: 128px;
+    height: 90px;
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#style_4thimg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 84, 84);
+    font-size: 19px;
+}
+
+#foot_shashi_img {
+    border: solid;
+    color: #EA580C;
+    border-width: 3px;
+    height: 182px;
+    width: 150px;
+}
+
+#foot_5th_info {
+    width: 128px;
+    height: 90px;
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#style_5thimg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 84, 84);
+    font-size: 19px;
+}
+
+#foot_jagadish_img {
+    border: solid;
+    color: #EA580C;
+    border-width: 3px;
+    height: 182px;
+    width: 150px;
+}
+
+#foot_6th_info {
+    width: 128px;
+    height: 90px;
+    border: none;
+    box-shadow: 0px 1px 3px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+#style_6thimg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 84, 84);
+    font-size: 19px;
+}
+#news_heading{
+    margin-left: 100px;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(85, 84, 84) ;
+}
+.news_field{
+    margin-left: 100px;
+    margin-right: 110px;
+    border: solid rgb(203, 203, 203);
+    border-radius: 5px;
+    border-width: 1px;
+}
+.news{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    color:rgb(68, 67, 67) ;
+}
+ .news_link{
+    border: none;
+    background-color: #EA580C;
+   padding: 9px 22px;
+   border-radius: 8px;
+   color: white;
+   text-decoration: none;
+ }
+ #last_footer{
+    height: 150px;
+    background-color: rgb(255, 77, 0);
+    color: white;
+ }
+ #join{
+    font-size: 60px;
+    margin-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ #last_member{
+    font-size: 18px;
+    color: orange;
+    border: none;
+    background-color: white;
+    padding: 6px 21px;
+    border-radius: 8px;
+    text-decoration: none;
+ }
+ #last_footer_table{
+    width: 1325px;
+    font-size: 20px;
+    color:rgb(68, 67, 67)  ;
+ }
+ #last_line{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:rgb(68, 67, 67) ;
+    text-align: center;
+ }
